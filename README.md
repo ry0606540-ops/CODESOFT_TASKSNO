@@ -1,10 +1,10 @@
-#🚀 CODSOFT Data Science Internship 🚀
+#  CODSOFT Data Science Internship 🚀
 
 Hello! Welcome to my repository. This space contains all the tasks I am completing as part of my Data Science Internship at **CODSOFT**. 
 
 During this internship, I am getting hands-on experience working with datasets, exploring data, and building basic machine learning models.
 
-## 📂 Tasks Completed So Far 📂
+## 📂 Tasks Completed So Far 
 
 Here are the notebook files for the projects I have worked on:
 
@@ -17,7 +17,7 @@ Here are the notebook files for the projects I have worked on:
 * **Task 3: CodSoft_Credit_Card_Fraud** (`CodSoft_Credit_Card_Fraud.ipynb`)
   * Developed a machine learning model to recognize fraudulent credit card transactions. 
 
-## 🛠️ Tools & Libraries Used  🛠️ 
+## 🛠️ Tools & Libraries Used 
 * Python
 * Jupyter Notebook
 * Pandas & NumPy
