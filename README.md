@@ -1,4 +1,4 @@
-#  CODSOFT Data Science Internship 🚀
+#  CodeSoft Data Science Internship 🚀
 
 Hello! Welcome to my repository. This space contains all the tasks I am completing as part of my Data Science Internship at **CODSOFT**. 
 
