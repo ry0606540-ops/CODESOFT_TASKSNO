@@ -16,7 +16,6 @@ Here are the notebook files for the projects I have worked on:
 
 * **Task 3: CodSoft_Credit_Card_Fraud** (`CodSoft_Credit_Card_Fraud.ipynb`)
   * Developed a machine learning model to recognize fraudulent credit card transactions. 
-  * *(Currently working on this!)*
 
 ## 🛠️ Tools & Libraries Used
 * Python
